@@ -8,8 +8,8 @@ Works with Google Meet, Microsoft Teams and Zoom, in the browser or as desktop a
 
 | Your computer | Download |
 |---|---|
-| **Windows** 10 or 11 (64-bit) | [**Download for Windows**](https://github.com/Naysrania18/callcue-releases/releases/download/v0.1.1/CallCue-Setup-0.1.1.exe) |
-| **Mac** (macOS 13 or newer) | [**Download for Mac**](https://github.com/Naysrania18/callcue-releases/releases/download/v0.1.1/CallCue-0.1.1-mac.dmg) |
+| **Windows** 10 or 11 (64-bit) | [**Download for Windows**](https://github.com/Naysrania18/callcue-releases/releases/download/v0.1.2/CallCue-Setup-0.1.2.exe) |
+| **Mac** (macOS 13 or newer) | [**Download for Mac**](https://github.com/Naysrania18/callcue-releases/releases/download/v0.1.2/CallCue-0.1.2-mac.dmg) |
 
 ## How it works
 
